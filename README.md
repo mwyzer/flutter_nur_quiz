@@ -1,4 +1,4 @@
-# flutter_complete_max
+# flutter_quiz
 
 A new Flutter application.
 
